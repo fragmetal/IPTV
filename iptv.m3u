@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO (East) US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO (East) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.eastern.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO (West) US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO (West) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.west.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 (East) US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 (East) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.eastern.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 (West) US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 (West) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.pacific.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (East) US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (East) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.east.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (West)
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (West)
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.pacific.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family (East) US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family (East) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.family.eastern.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family (West)
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family (West)
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.family.pacific.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature (East) US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature (East) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature (West)
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature (West)
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.signature.hbo.3.pacific.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone (East) US
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone (East) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.zone.east.us.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone (West)
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone (West)
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.zone.pacific.us.m3u8?checkedby:iptvcat.net
 #EXTINF:-1,ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
